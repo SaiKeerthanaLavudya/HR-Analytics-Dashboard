@@ -78,8 +78,7 @@ This project is an interactive **HR Analytics Dashboard** built using **Tableau 
 
 ### HR | Summary
 
-![HR Summary](https://github.com/SaiKeerthanaLavudya/HR-Analytics-Dashboard/blob/main/Images/HR%20Summary.png?raw=true)
-
+![HR Summary](https://github.com/SaiKeerthanaLavudya/HR-Analytics-Dashboard/blob/main/Images/HR%20%20Summary.png)
 ### HR | Details
 ![HR Details](https://github.com/SaiKeerthanaLavudya/HR-Analytics-Dashboard/blob/main/Images/HR%20%20Details.png?raw=true)
 
